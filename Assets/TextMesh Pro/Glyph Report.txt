@@ -1,0 +1,9 @@
+Font: Bit5x3  Pt. Size: 90
+Characters packed: 95/99
+
+Missing Characters
+----------------------------------------
+ID: 160	Hex: A0	Char [ ]
+ID: 8203	Hex: 200B	Char [​]
+ID: 8230	Hex: 2026	Char […]
+ID: 9633	Hex: 25A1	Char [□]
