@@ -8,6 +8,7 @@ public class MainMenu : MonoBehaviour
     private void Start()
     {
         highscore_num.text = PlayerPrefs.GetInt("Highscore", 0).ToString();
+        Debug.Log("what the hell");
     }
     public void PlayGame()
     {
